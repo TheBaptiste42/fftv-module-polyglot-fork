@@ -1,5 +1,5 @@
 {
-	"title": "Polyglot",
+	"title": "Polyglot Fork Cof",
 	"description": "Talk to others using a language you can speak and scrambles text you can't understand, in several fantasy scripts.",
 	"version": "1.7",
 	"authors": [
@@ -13,6 +13,8 @@
 		},
 		{
 			"name": "elizeuangelo"
+		},{
+			"name": "thebaptiste42"
 		}
 	],
 	"esmodules": [
@@ -79,13 +81,13 @@
 			"path": "lang/sv.json"
 		}
 	],
-	"url": "https://github.com/League-of-Foundry-Developers/fvtt-module-polyglot",
-	"manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-polyglot/releases/latest/download/module.json",
-	"download": "https://github.com/League-of-Foundry-Developers/fvtt-module-polyglot/releases/latest/download/module.zip",
-	"bugs": "https://github.com/League-of-Foundry-Developers/fvtt-module-polyglot/issues",
+	"url": "https://github.com/TheBaptiste42/fftv-module-polyglot-fork",
+	"manifest": "https://github.com/TheBaptiste42/fvtt-module-polyglot-fork/releases/latest/download/module.json",
+	"download": "https://github.com/TheBaptiste42/fvtt-module-polyglot-fork/releases/latest/download/module.zip",
+	"bugs": "https://github.com/TheBaptiste42/fvtt-module-polyglot-fork/issues",
 	"id": "polyglot",
 	"compatibility": {
-		"minimum": "10",
+		"minimum": "9",
 		"verified": "10"
 	}
 }
